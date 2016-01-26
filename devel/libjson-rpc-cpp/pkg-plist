@@ -1,0 +1,53 @@
+bin/jsonrpcstub
+include/jsonrpccpp/client.h
+include/jsonrpccpp/client/batchcall.h
+include/jsonrpccpp/client/batchresponse.h
+include/jsonrpccpp/client/client.h
+include/jsonrpccpp/client/connectors/httpclient.h
+include/jsonrpccpp/client/connectors/unixdomainsocketclient.h
+include/jsonrpccpp/client/iclientconnector.h
+include/jsonrpccpp/common/errors.h
+include/jsonrpccpp/common/exception.h
+include/jsonrpccpp/common/jsonparser.h
+include/jsonrpccpp/common/procedure.h
+include/jsonrpccpp/common/specification.h
+include/jsonrpccpp/common/specificationparser.h
+include/jsonrpccpp/common/specificationwriter.h
+include/jsonrpccpp/server.h
+include/jsonrpccpp/server/abstractserver.h
+include/jsonrpccpp/server/abstractserverconnector.h
+include/jsonrpccpp/server/connectors/httpserver.h
+include/jsonrpccpp/server/connectors/unixdomainsocketserver.h
+include/jsonrpccpp/server/iclientconnectionhandler.h
+include/jsonrpccpp/server/iprocedureinvokationhandler.h
+include/jsonrpccpp/server/requesthandlerfactory.h
+include/jsonrpccpp/stubgen/client/cppclientstubgenerator.h
+include/jsonrpccpp/stubgen/client/jsclientstubgenerator.h
+include/jsonrpccpp/stubgen/codegenerator.h
+include/jsonrpccpp/stubgen/helper/cpphelper.h
+include/jsonrpccpp/stubgen/server/cppserverstubgenerator.h
+include/jsonrpccpp/stubgen/servertemplate.h
+include/jsonrpccpp/stubgen/stubgenerator.h
+include/jsonrpccpp/stubgen/stubgeneratorfactory.h
+include/jsonrpccpp/stubgen/stubhelper.h
+include/jsonrpccpp/version.h
+lib/libjsonrpccpp-client.so
+lib/libjsonrpccpp-client.so.0
+lib/libjsonrpccpp-client.so.0.6.0
+lib/libjsonrpccpp-common.so
+lib/libjsonrpccpp-common.so.0
+lib/libjsonrpccpp-common.so.0.6.0
+lib/libjsonrpccpp-server.so
+lib/libjsonrpccpp-server.so.0
+lib/libjsonrpccpp-server.so.0.6.0
+lib/libjsonrpccpp-stub.so
+lib/libjsonrpccpp-stub.so.0
+lib/libjsonrpccpp-stub.so.0.6.0
+lib/pkgconfig/libjsonrpccpp-client.pc
+lib/pkgconfig/libjsonrpccpp-common.pc
+lib/pkgconfig/libjsonrpccpp-server.pc
+lib/pkgconfig/libjsonrpccpp-stub.pc
+@dir include/jsonrpccpp/stubgen/CMakeFiles/jsonrpcstub.dir
+@dir include/jsonrpccpp/stubgen/CMakeFiles/libjsonrpcstub.dir/client
+@dir include/jsonrpccpp/stubgen/CMakeFiles/libjsonrpcstub.dir/helper
+@dir include/jsonrpccpp/stubgen/CMakeFiles/libjsonrpcstub.dir/server
